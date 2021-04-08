@@ -1,8 +1,0 @@
-.fishes {
-    display: flex;
-    flex-direction: row;
-}
-
-.fish__image {
-    max-height: 10rem;
-}
