@@ -5,6 +5,7 @@
 
 body {
     font-family: 'Kiwi Maru' , serif;
+    background-color: aqua;
 }
 
 .container {
@@ -13,6 +14,7 @@ body {
 
 .header {
     text-align: center;
+    background-color: cadetblue;
 }
 
 .flex-container-left {
@@ -23,6 +25,7 @@ body {
     flex: 1;
     margin-left: 5rem;
     padding: 0 2rem;
+    background-color: cornflowerblue;
 }
 
 .bordered {
