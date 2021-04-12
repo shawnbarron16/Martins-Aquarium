@@ -27,8 +27,8 @@ const database = {
     ]
 }
 
-function createList (fishObjects){
+export function createList (fishObjects){
     return fishObjects;
 }
 
-console.log(createList(database));
+console.log (createList);
